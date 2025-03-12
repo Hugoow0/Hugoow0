@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+<br><hr>
 <a href="https://hugoow0.github.io/portfolio/">My portfolio</a>
+<hr><br>
 <!--
 **Hugoow0/Hugoow0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
