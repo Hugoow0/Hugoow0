@@ -1,14 +1,13 @@
 # Hi there, I'm Hugo  👋 
 
 
-## I'm a student and developer :)
+## I'm a student and a software developer :)
 - 🌱 I’m currently learning React, Typescript and NextJs
-- 👯 I’m looking for an apprenticeship
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: idk man
 
 ---
 <!-- ### Connect with me: -->
-[My Portfolio](https://hugoow0.github.io/portfolio/)
+## [My Portfolio](https://hugoow0.github.io/portfolio/)
 <!--
 &nbsp;&nbsp;
 [![website](./img/youtube.svg)](https://youtube.com/)
@@ -43,6 +42,7 @@
 <img align="left" alt="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="34px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Insomnia" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" style="padding-right:10px;" />
+...
 
 <br />
 <br />
