@@ -1,9 +1,5 @@
-# Hi there, I'm Hugo  👋 
-
-
-## I'm a student and a software developer :)
-- 🌱 I’m currently learning React, Typescript and NextJs
-- ⚡ Fun fact: idk man
+## Hey there, I'm a student and a software developer
+- Currently learning React and NextJs
 
 ---
 <!-- ### Connect with me: -->
